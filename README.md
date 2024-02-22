@@ -1,24 +1,16 @@
-# Global Terrorism Database
+# SUPPORT2 Dataset on critically ill 
 
 ## Description 
 
-The Global Terrorism Database (GTD) is a publicly accessible database that contains comprehensive information on terrorist attacks worldwide spanning from 1970 to 2017 and provides systematic data on over 180,000 attacks. 
-
+Utilizing the dataset comprising 9105 critically ill patients from five medical centers across the United States, I embarked on a journey to develop a predictive model for patients' 2- and 6-month survival rates, and much more. This dataset, spanning the years 1989-1991 and 1992-1994, offered a wealth of information on physiological parameters, demographics, and disease severity indicators.
 
 ## Data Collection 
 
-Data was collected by National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
+Data was collected by Professor Frank Harrell at Vanderbilt University Department of Biostatistics
 
 ## Variables
 
-There are 42 variables on location, tactics, perpetrators, targets, and outcomes
-
-## Potential questions 
-
-1. Are there temporal patterns in terrorist activities, and can time series analysis help uncover recurring trends or seasonal variations?
-2. How does the frequency and severity of terrorist attacks vary across different regions, and can statistical analysis identify significant differences?
-3. What are the common characteristics of terrorist incidents, and can machine learning algorithms be applied to identify potential risk factors or predictive patterns?
-4. Are there correlations between socio-economic indicators and the occurrence of terrorism, and can data integration with external datasets enhance the analysis?
+There are 48 variables on physiological parameters, demographics, and disease severity indicators
 
 ## Methods and Libraries: 
 **1. Data Visualization:**
@@ -39,5 +31,5 @@ There are 42 variables on location, tactics, perpetrators, targets, and outcomes
 
 
 ## References 
-Global Terrorism Database. (n.d.). Retrieved from Kaggle: https://archive.ics.uci.edu/dataset/880/support2
+UCI Machine Learning Repository - SUPPORT2. Retrieved from https://archive.ics.uci.edu/dataset/880/support2
 
