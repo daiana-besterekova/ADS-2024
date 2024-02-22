@@ -11,7 +11,7 @@ Data was collected by National Consortium for the Study of Terrorism and Respons
 
 ## Variables
 
-There are 100 variables on location, tactics, perpetrators, targets, and outcomes
+There are 42 variables on location, tactics, perpetrators, targets, and outcomes
 
 ## Potential questions 
 
@@ -39,5 +39,5 @@ There are 100 variables on location, tactics, perpetrators, targets, and outcome
 
 
 ## References 
-Global Terrorism Database. (n.d.). Retrieved from Kaggle: https://www.kaggle.com/datasets/START-UMD/gtd/data
+Global Terrorism Database. (n.d.). Retrieved from Kaggle: https://archive.ics.uci.edu/dataset/880/support2
 
